@@ -1,0 +1,193 @@
+/*
+Name : Satish Birajdar
+Website : My profile
+File Name : style.css
+Description : This file is used as style sheet for HTML web-page. It mainly undergoes for Presentation part index.html web-page.
+*/
+
+
+/* Body Text Format */
+
+body 
+{
+	text-align: center;
+	color: black;
+	
+}
+
+/* Personal Tag line Format */
+.tagline
+{
+	font-size: 15px;
+	font-family: Bradley Hand ITC;
+	color: #5050FF;
+	margin: 2px 8px;
+	font-weight:bold;
+}
+
+/* Image Slider */
+
+.imageslider
+{
+	margin: 100px 100px;
+	width: 100px;
+	height: 60px;
+}
+
+/*Logo*/
+.logo
+{
+	width: 50px; 
+	height: 20px; 
+	position: relative; 
+}
+
+/*My picture*/
+.mypic
+{
+	width: 150px; 
+	height: 230px; 
+	position: relative; 
+	background-color: #fbfbfb; 
+	border: 1px solid #b8b8b8; 
+	float:right;
+}
+
+/*project image button on home page*/
+
+.pimage
+{
+	width: 130px; 
+	height: 90px; 
+	position: relative; 
+	background-color: #fbfbfb; 
+	border: 1px solid #b8b8b8; 
+	float:left;
+	
+}
+
+/*Service image button on home page*/
+
+.simage
+{
+	width: 130px; 
+	height: 90px; 
+	position: relative; 
+	background-color: #fbfbfb; 
+	border: 1px solid #b8b8b8; 
+	float:right;
+}
+
+
+/* Content Styling */
+
+h1 {
+	color: #342D7E;
+	margin-top: 2%;
+}
+
+h2 {
+	color: #153E7E;
+	text-align: left;
+}
+
+h3
+{
+	font-family: 'Bradley Hand ITC';
+	font-size: 18px;
+}
+
+#popupPanel-popup {
+    right: 0 !important;
+    left: auto !important;
+}
+#popupPanel {
+    width: 200px;
+    border: 1px solid #000;
+    border-right: none;
+    background: rgba(0,0,0,.5);
+    margin: -1px 0;
+}
+#popupPanel .ui-btn {
+    margin: 2em 15px;
+}
+
+/*Main page statement*/
+.mstatement
+{
+	margin-top: 17%;
+	color: black;
+	font-size: 16px;
+	font-family: 'Underdog', cursive;
+}
+
+/*main page title*/
+.mtitle
+{
+	font-family: 'Cooper Black';
+	font-size: 20px;
+}
+
+/*service content*/
+.svcontent
+{
+	font-family: 'Cooper Black';
+	font-size: 24px;
+}
+
+/*content heading*/
+.chead
+{
+	margin-top: 10%;
+	margin-bottom: 12%;
+	color: violet;
+	font-size: 18px;
+	font-family: 'Underdog', cursive;
+}
+
+/*contact content*/
+.ccontent
+{
+	margin-top: 2%;
+	margin-bottom: 2%;
+	font-size: 12px;
+	font-family: 'MV Boli';
+}
+
+/*general content*/
+.gcontent
+{
+	text-align: justify;
+	font-size:12px;
+	
+}
+
+li{
+	text-align: justify;
+}
+
+
+/* Paragraph Styling */
+
+p {
+	text-align:justify;
+	margin-top:1%;
+}
+
+.incorrectlogin
+{
+	color: red;
+}
+
+.accountheader
+{
+	margin: 5%;
+}
+
+.securedpagehead
+{
+	
+	font-size: 20px;
+	font-family: 'MV Boli';
+	color: violet;
+}
